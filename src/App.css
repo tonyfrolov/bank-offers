@@ -42,6 +42,7 @@
 }
 
 .App-authButton {
+  margin-left: 25px;
   padding: 10px 20px;
   color: #ffffff;
   font-weight: 700;
@@ -64,6 +65,7 @@
   padding: 25px 15px;
   min-width: 450px;
   background-color: #006064;
+  border-radius: 5px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
